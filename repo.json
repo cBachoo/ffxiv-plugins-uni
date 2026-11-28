@@ -26,7 +26,7 @@
     "AssemblyVersion": "7.5.8.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.8.2/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Updates to RBM standard by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.8.1...7.5.8.2",
-    "DownloadCount": 46196
+    "DownloadCount": 46241
   },
   {
     "AcceptsFeedback": false,
@@ -35,7 +35,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 274263,
+    "DownloadCount": 274280,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
@@ -57,7 +57,7 @@
     "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
     "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
     "InternalName": "AnoMech",
-    "AssemblyVersion": "0.5.1.0",
+    "AssemblyVersion": "0.5.2.0",
     "RepoUrl": "https://github.com/anomek/AnoMech",
     "ApplicableVersion": "any",
     "Tags": [
@@ -78,8 +78,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-    "DownloadCount": 7274,
-    "LastUpdate": "1792213775"
+    "DownloadCount": 7354,
+    "LastUpdate": "1795849087"
   },
   {
     "Author": "NightmareXIV",
@@ -111,7 +111,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 6325290,
+    "DownloadCount": 6326559,
     "LastUpdate": 1795018851,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.27/update/latest.zip",
@@ -200,7 +200,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
-    "DownloadCount": 1073,
+    "DownloadCount": 1075,
     "LastUpdate": "1782589111"
   },
   {
@@ -220,7 +220,7 @@
     ],
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "DownloadCount": 2449780,
+    "DownloadCount": 2452507,
     "LastUpdate": 1795732590,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.400/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.400/update/latest.zip",
@@ -251,7 +251,7 @@
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 3089370,
+    "DownloadCount": 3090427,
     "LastUpdate": 1795303738,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.1.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.1.1.2/update/latest.zip",
@@ -272,7 +272,7 @@
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 2823181,
+    "DownloadCount": 2825381,
     "LastUpdate": 1795644191,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.2.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.2.27/update/latest.zip",
@@ -295,7 +295,7 @@
     ],
     "InternalName": "Avarice",
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
-    "DownloadCount": 407289,
+    "DownloadCount": 407386,
     "LastUpdate": 1785546003,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
@@ -359,7 +359,7 @@
     "Tags": [],
     "InternalName": "BossMod",
     "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-    "DownloadCount": 2938129,
+    "DownloadCount": 2938908,
     "LastUpdate": 1795102570,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.8.5/update/latest.zip",
@@ -409,7 +409,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.7.4/latest.zip",
     "TestingAssemblyVersion": "7.5.7.4",
     "Changelog": "## What's Changed\r\n* Fix duplicate party members when switching Duty Recorder viewpoints by @emiripoint in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1407\r\n* SHB cleanup pass, added missing stuff from upstream by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1408\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.8.10...7.5.8.11",
-    "DownloadCount": 4045866
+    "DownloadCount": 4047490
   },
   {
     "Author": "Minmoose, Asgard and Contributors",
@@ -421,7 +421,7 @@
     "TestingAssemblyVersion": "0.8.0.12",
     "RepoUrl": "https://github.com/Etheirys/Brio",
     "ApplicableVersion": "any",
-    "DownloadCount": 2471739,
+    "DownloadCount": 2472193,
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.8.0.12/Brio.zip",
@@ -468,7 +468,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 62824,
     "LastUpdate": "1777904465"
   },
   {
@@ -483,7 +483,7 @@
     ],
     "InternalName": "Automaton",
     "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "DownloadCount": 1155181,
+    "DownloadCount": 1155563,
     "LastUpdate": 1795307446,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.237/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.237/update/latest.zip",
@@ -529,7 +529,7 @@
     ],
     "InternalName": "ChilledLeves",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/LeveItAlone",
-    "DownloadCount": 140203,
+    "DownloadCount": 140367,
     "LastUpdate": 1795020885,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.2.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.2.4/update/latest.zip",
@@ -552,7 +552,7 @@
     ],
     "InternalName": "Chocoholic",
     "RepoUrl": "https://github.com/kawaii/Chocoholic",
-    "DownloadCount": 6788,
+    "DownloadCount": 6794,
     "LastUpdate": 1778089832,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
@@ -575,7 +575,7 @@
     ],
     "InternalName": "Chroma",
     "RepoUrl": "https://github.com/Akechi-kun/Chroma",
-    "DownloadCount": 1294,
+    "DownloadCount": 1295,
     "LastUpdate": 1792829963,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/102/Chroma/versions/1.3.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/102/Chroma/versions/1.3.0.0/update/latest.zip",
@@ -637,7 +637,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 16381,
     "LastUpdate": "1700166956"
   },
   {
@@ -648,7 +648,7 @@
     "Tags": [],
     "InternalName": "Deliveroo",
     "RepoUrl": "https://github.com/VeraNala/Deliveroo",
-    "DownloadCount": 19651,
+    "DownloadCount": 19662,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -671,7 +671,7 @@
     ],
     "InternalName": "ARDiscard",
     "RepoUrl": "https://github.com/VeraNala/ARDiscard",
-    "DownloadCount": 5296,
+    "DownloadCount": 5299,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -689,7 +689,7 @@
     "Tags": [],
     "InternalName": "Dropbox",
     "RepoUrl": "https://github.com/kawaii/Dropbox",
-    "DownloadCount": 51181,
+    "DownloadCount": 51202,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -754,7 +754,7 @@
     "Tags": [],
     "InternalName": "vfaux",
     "RepoUrl": "https://github.com/awgil/vfaux",
-    "DownloadCount": 99864,
+    "DownloadCount": 99871,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -792,7 +792,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 64026
+    "DownloadCount": 64043
   },
   {
     "Author": "Ice",
@@ -806,7 +806,7 @@
     ],
     "InternalName": "ExplorersIcebox",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
-    "DownloadCount": 55333,
+    "DownloadCount": 55362,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -830,7 +830,7 @@
     ],
     "InternalName": "FCTracker",
     "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-    "DownloadCount": 6774,
+    "DownloadCount": 6780,
     "LastUpdate": 1793920777,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.43/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.43/update/latest.zip",
@@ -914,7 +914,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 1033,
     "LastUpdate": "1680237651"
   },
   {
@@ -934,7 +934,7 @@
     ],
     "InternalName": "GatherChill",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Gather-Chill",
-    "DownloadCount": 5737,
+    "DownloadCount": 5873,
     "LastUpdate": 1795700646,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/138/GatherChill/versions/1.0.0.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/138/GatherChill/versions/1.0.0.9/update/latest.zip",
@@ -981,7 +981,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.8.2/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.5.8.2",
     "Changelog": "## What's Changed\r\n* Fix ability to rename auto gather and crafting lists by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/682\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.6...7.5.8.7",
-    "DownloadCount": 1186767
+    "DownloadCount": 1189211
   },
   {
     "Author": "vera.lyn",
@@ -994,7 +994,7 @@
     ],
     "InternalName": "Gearsetter",
     "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
-    "DownloadCount": 40686,
+    "DownloadCount": 40716,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -1014,7 +1014,7 @@
     ],
     "InternalName": "GlamourLog",
     "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-    "DownloadCount": 67536,
+    "DownloadCount": 67646,
     "LastUpdate": 1795285442,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.81/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.81/update/latest.zip",
@@ -1066,14 +1066,14 @@
     "Tags": [],
     "InternalName": "Henchman",
     "RepoUrl": "https://github.com/Knightmore/Henchman",
-    "DownloadCount": 257404,
-    "LastUpdate": 1795822321,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/4.0.0.6/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/4.0.0.6/update/latest.zip",
-    "AssemblyVersion": "4.0.0.6",
+    "DownloadCount": 259138,
+    "LastUpdate": 1795872459,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/4.0.0.7/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/4.0.0.7/update/latest.zip",
+    "AssemblyVersion": "4.0.0.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Hunts\n  - Hunt and FATE routes now use MappingTheRealm to reach usable ground within range of the destination.\n- Movement\n  - Mount, flight, and sprint settings are now managed in MappingTheRealm.\n  - Removed automatic aetheryte attunement detours.",
+    "Changelog": "- **On Your Mark**\n  - Added an option to buy from Knightshopper’s selected The Hunt list after each completed mark, subject to Knightshopper’s IPC limits.\n  - Added an option to switch to the best available gearset for a selected combat job at startup.\n  - Skips completed marks and unreachable landing areas, and waits for combat to clear before traveling.\n- **Bring Your A/B Game**\n  - Routes within range of spawn points to reduce the chance of flying into walls.",
     "IconUrl": "https://puni.sh/api/plugins/icon/85"
   },
   {
@@ -1104,7 +1104,7 @@
     "AssemblyVersion": "7.5.8.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/HuntBuddyReborn/releases/download/7.5.8.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Reborn'd by @LTS-FFXIV in https://github.com/LTS-FFXIV/HuntBuddyReborn/pull/1\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/LTS-FFXIV/HuntBuddyReborn/pull/1\r\n\r\n**Full Changelog**: https://github.com/LTS-FFXIV/HuntBuddyReborn/commits/7.5.8.1",
-    "DownloadCount": 80
+    "DownloadCount": 133
   },
   {
     "Author": "NightmareXIV",
@@ -1140,7 +1140,7 @@
     ],
     "InternalName": "Hyperborea",
     "RepoUrl": "https://github.com/kawaii/Hyperborea",
-    "DownloadCount": 50505,
+    "DownloadCount": 50518,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -1166,7 +1166,7 @@
     ],
     "InternalName": "ICE",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-    "DownloadCount": 1368311,
+    "DownloadCount": 1368847,
     "LastUpdate": 1795218640,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.7/update/latest.zip",
@@ -1273,7 +1273,7 @@
     "Tags": [],
     "InternalName": "Knightshopper",
     "RepoUrl": "https://github.com/Knightmore/Knightshopper",
-    "DownloadCount": 10336,
+    "DownloadCount": 10561,
     "LastUpdate": 1795618616,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.1.0.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.1.0.1/update/latest.zip",
@@ -1296,7 +1296,7 @@
     ],
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 251451,
+    "DownloadCount": 251489,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -1431,14 +1431,14 @@
     ],
     "InternalName": "MappingTheRealm",
     "RepoUrl": "https://github.com/Knightmore/MappingTheRealm",
-    "DownloadCount": 3558,
-    "LastUpdate": 1795822318,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/189/MappingTheRealm/versions/1.0.0.9/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/189/MappingTheRealm/versions/1.0.0.9/update/latest.zip",
-    "AssemblyVersion": "1.0.0.9",
+    "DownloadCount": 4415,
+    "LastUpdate": 1795872461,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/189/MappingTheRealm/versions/1.0.0.10/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/189/MappingTheRealm/versions/1.0.0.10/update/latest.zip",
+    "AssemblyVersion": "1.0.0.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Added /mtr flag to navigate to the current map flag.\n- Added IPC v4 navigation to reachable ground within a target radius.\n- Added an IPC endpoint for reading mount, flight, and sprint settings.",
+    "Changelog": "- Improved approaches to aetherytes and other interactables, including landing before interaction.\n- Cosmic Exploration routes check shard attunement and replan after arrival.\n- Navigation checks mount and flight restrictions and walks when mounting is blocked.\n- Improved teleport failure messages and recovery from cancelled path queries.\n- Prevented movement toward waypoints in the wrong territory.\n- Improved retries when navigating to a target area.",
     "IconUrl": "https://puni.sh/api/plugins/icon/189"
   },
   {
@@ -1451,7 +1451,7 @@
     ],
     "InternalName": "Marketbuddy",
     "RepoUrl": null,
-    "DownloadCount": 26029,
+    "DownloadCount": 26046,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -1575,7 +1575,7 @@
     ],
     "InternalName": "MogVault",
     "RepoUrl": "https://github.com/Knightmore/MogVault",
-    "DownloadCount": 261,
+    "DownloadCount": 377,
     "LastUpdate": 1795700308,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/186/MogVault/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/186/MogVault/versions/1.0.0.2/update/latest.zip",
@@ -1618,7 +1618,7 @@
     "AssemblyVersion": "7.5.8.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.8.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Reborn UI, rework, and Evercold prep by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.5.0...7.5.8.1",
-    "DownloadCount": 8494
+    "DownloadCount": 8600
   },
   {
     "Author": "UnknownX",
@@ -1644,7 +1644,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 93062,
     "LastUpdate": "1777510404"
   },
   {
@@ -1689,7 +1689,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 10672,
     "LastUpdate": "1696378706"
   },
   {
@@ -1700,7 +1700,7 @@
     "Tags": [],
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-    "DownloadCount": 88287,
+    "DownloadCount": 88299,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -1724,7 +1724,7 @@
     ],
     "InternalName": "Palantir",
     "RepoUrl": "https://github.com/PunishXIV/Palantir",
-    "DownloadCount": 25783,
+    "DownloadCount": 25858,
     "LastUpdate": 1794057617,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/169/Palantir/versions/0.0.0.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/169/Palantir/versions/0.0.0.10/update/latest.zip",
@@ -1747,7 +1747,7 @@
     ],
     "InternalName": "PandorasBox",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-    "DownloadCount": 1476134,
+    "DownloadCount": 1477404,
     "LastUpdate": 1795533310,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.8/update/latest.zip",
@@ -1793,7 +1793,7 @@
     "AssemblyVersion": "7.5.8.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.8.2/latest.zip",
     "Changelog": "## What's Changed\r\n* Updates to RBM standard by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/38\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.8.1...7.5.8.2",
-    "DownloadCount": 78415
+    "DownloadCount": 78624
   },
   {
     "Author": "Aida Enna",
@@ -1852,7 +1852,7 @@
     ],
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 2645185,
+    "DownloadCount": 2646213,
     "LastUpdate": 1795215779,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.64/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.64/update/latest.zip",
@@ -1860,8 +1860,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- Fix seasonal ipc trying to do completed seasonal quests - Kage",
-    "TestingAssemblyVersion": "16.0.0.3",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/16.0.0.3/install/testing.zip",
+    "TestingAssemblyVersion": "16.0.0.4",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/16.0.0.4/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/94"
   },
@@ -1907,7 +1907,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 26836,
     "LastUpdate": "1777513055"
   },
   {
@@ -1935,7 +1935,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 32218
+    "DownloadCount": 32229
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1971,7 +1971,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Cleanup and fixes for some legacy systems, sourcegen fixes in prep for evercold by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1433\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.8.11...7.5.8.12",
-    "DownloadCount": 3623510
+    "DownloadCount": 3626063
   },
   {
     "Author": "veyn, croizat",
@@ -1981,7 +1981,7 @@
     "Tags": [],
     "InternalName": "vsatisfy",
     "RepoUrl": null,
-    "DownloadCount": 197987,
+    "DownloadCount": 198390,
     "LastUpdate": 1795646629,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.51/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.51/update/latest.zip",
@@ -2003,7 +2003,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 1234738,
+    "DownloadCount": 1234888,
     "LastUpdate": 1793290579,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.9/update/latest.zip",
@@ -2105,7 +2105,7 @@
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-    "DownloadCount": 854420,
+    "DownloadCount": 855788,
     "LastUpdate": 1795799301,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.17/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.17/update/latest.zip",
@@ -2126,7 +2126,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2389936,
+    "DownloadCount": 2390240,
     "LastUpdate": 1793070912,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/update/latest.zip",
@@ -2151,7 +2151,7 @@
     ],
     "InternalName": "Squadronista",
     "RepoUrl": "https://github.com/yourusername/Squadronista",
-    "DownloadCount": 9649,
+    "DownloadCount": 9661,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2286,7 +2286,7 @@
     "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
     "Changelog": "https://github.com/anomek/TomestoneViewer/releases",
     "InternalName": "TomestoneViewer",
-    "AssemblyVersion": "0.2.8.0",
+    "AssemblyVersion": "0.2.9.0",
     "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
     "ApplicableVersion": "any",
     "Tags": [
@@ -2304,8 +2304,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-    "DownloadCount": 3049,
-    "LastUpdate": "1782586241"
+    "DownloadCount": 3064,
+    "LastUpdate": "1795853636"
   },
   {
     "Author": "KangasZ",
@@ -2384,7 +2384,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 944098,
+    "DownloadCount": 944371,
     "LastUpdate": 1794757512,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.153/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.153/update/latest.zip",
@@ -2411,7 +2411,7 @@
     ],
     "InternalName": "VIWI",
     "RepoUrl": null,
-    "DownloadCount": 45230,
+    "DownloadCount": 45241,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2429,7 +2429,7 @@
     "Tags": [],
     "InternalName": "vfallguy",
     "RepoUrl": null,
-    "DownloadCount": 70326,
+    "DownloadCount": 70338,
     "LastUpdate": 1791755090,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.13/update/latest.zip",
@@ -2447,7 +2447,7 @@
     "Tags": [],
     "InternalName": "vnavmesh",
     "RepoUrl": null,
-    "DownloadCount": 1981268,
+    "DownloadCount": 1981844,
     "LastUpdate": 1793814366,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.15/update/latest.zip",
@@ -2532,7 +2532,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 1288679,
+    "DownloadCount": 1290026,
     "LastUpdate": 1795628369,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.28/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.28/update/latest.zip",
@@ -2553,7 +2553,7 @@
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 1631627,
+    "DownloadCount": 1634008,
     "LastUpdate": 1795731283,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.8.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.8.0/update/latest.zip",
@@ -2596,6 +2596,6 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update AutoDuty IPCs by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.6.0...7.5.6.1",
-    "DownloadCount": 27448
+    "DownloadCount": 27459
   }
 ]
